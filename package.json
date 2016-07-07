@@ -1,0 +1,20 @@
+{
+  "name": "kreditech",
+  "version": "1.0.0",
+  "description": "test app for kreditech test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sargekhan <usmankhen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "chai": "^3.5.0",
+    "hapi": "^13.4.2",
+    "joi": "^8.4.2",
+    "mocha": "^2.5.3",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.1.18"
+  }
+}
